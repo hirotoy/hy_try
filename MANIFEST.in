@@ -1,0 +1,3 @@
+graft hy_try
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  hy_try/jupy *
